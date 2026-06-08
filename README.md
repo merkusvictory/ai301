@@ -1,15 +1,15 @@
-# Contribution [#]: [Issue Title]
+# Contribution 1: Color preview in IDE doesn't show correct colors for a custom Colors class
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** 1
+**Student:** Marcus Hilario  
+**Issue:** [GitHub issue link](https://github.com/flutter/flutter-intellij/issues/4079) 
+**Status:** Phase I Complete
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose this issue because there was clear documentation on what the issue was, including screenshots and version info. The problem was also easy to understand, and there seems to be a high demand for the issue to be fixed from other users based on the comment activity.
 
 ---
 
