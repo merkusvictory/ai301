@@ -2,7 +2,7 @@
 
 **Contribution Number:** 1
 **Student:** Marcus Hilario  
-**Issue:** [GitHub issue link](https://github.com/flutter/flutter-intellij/issues/4079) 
+**Issue:** [GitHub issue link](https://github.com/flutter/flutter-intellij/issues/4079)  
 **Status:** Phase I Complete
 
 ---
